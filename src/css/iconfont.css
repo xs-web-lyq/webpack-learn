@@ -1,0 +1,34 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4366637 */
+  src: url("../font/iconfont.woff2?t=1702199143294") format("woff2"),
+    url("../font/iconfont.woff?t=1702199143294") format("woff"),
+    url("../font/iconfont.ttf?t=1702199143294") format("truetype");
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-banquan:before {
+  content: "\e98b";
+}
+
+.icon-anquanyinsi:before {
+  content: "\e98c";
+}
+
+.icon-dicengjiagou:before {
+  content: "\e98d";
+}
+
+.icon-cangchucangku:before {
+  content: "\e98e";
+}
+
+.icon-bingtutubiao:before {
+  content: "\e98f";
+}
